@@ -1,0 +1,15 @@
+{
+    "name": "Budgeteer",
+    "description": "Cooperative Budgeting Application",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Cody Swanson"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
